@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "SINKER",
+  "base_artist": "水槽",
+  "createdAt": "2025-12-28T05:15:43.723445Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "sinker",
+      "artist": "nothing,nowhere.",
+      "has_synced": true,
+      "path": "select/01_sinker_nothing,nowhere..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hook, Line and Sinker",
+      "artist": "Jon Brion",
+      "has_synced": true,
+      "path": "select/02_Hook,_Line_and_Sinker_Jon_Brion.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hook, Line and Sinker",
+      "artist": "Refused",
+      "has_synced": true,
+      "path": "select/03_Hook,_Line_and_Sinker_Refused.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sinker Ship",
+      "artist": "Sin Fang",
+      "has_synced": false,
+      "path": "select/04_Sinker_Ship_Sin_Fang.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hook, Line And Sinker - Live",
+      "artist": "Refused",
+      "has_synced": false,
+      "path": "select/05_Hook,_Line_And_Sinker_-_Live_Refused.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hook, Line & Sinker",
+      "artist": "Royal Blood",
+      "has_synced": true,
+      "path": "select/06_Hook,_Line_&_Sinker_Royal_Blood.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Line & Sinker [Live at Nova Rock Festival - Burgenland, Austria 2007]",
+      "artist": "Billy Talent",
+      "has_synced": true,
+      "path": "select/07_Line_&_Sinker_[Live_at_Nova_Rock_Festival_-_Burgenland,_Austria_2007]_Billy_Talent.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Line and Sinker",
+      "artist": "Billy Talent",
+      "has_synced": true,
+      "path": "select/08_Line_and_Sinker_Billy_Talent.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hook, Line and Sinker",
+      "artist": "BlackHawk",
+      "has_synced": false,
+      "path": "select/09_Hook,_Line_and_Sinker_BlackHawk.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hook, Line and Sinker",
+      "artist": "Blackhawk",
+      "has_synced": true,
+      "path": "select/10_Hook,_Line_and_Sinker_Blackhawk.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hook, Line and Sinker (live)",
+      "artist": "Refused",
+      "has_synced": false,
+      "path": "select/11_Hook,_Line_and_Sinker_(live)_Refused.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Line and Sinker",
+      "artist": "Billy Talent",
+      "has_synced": true,
+      "path": "select/12_Line_and_Sinker_Billy_Talent.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Line and Sinker  (Live at Nova Rock Festival - Burgenland, Austria 2007)",
+      "artist": "Billy Talent",
+      "has_synced": true,
+      "path": "select/13_Line_and_Sinker_(Live_at_Nova_Rock_Festival_-_Burgenland,_Austria_2007)_Billy_Talent.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Line and Sinker (Album Version)",
+      "artist": "Billy Talent",
+      "has_synced": true,
+      "path": "select/14_Line_and_Sinker_(Album_Version)_Billy_Talent.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "All Aboard the S.S. Sinker",
+      "artist": "Psychedelic Porn Crumpets",
+      "has_synced": true,
+      "path": "select/15_All_Aboard_the_S.S._Sinker_Psychedelic_Porn_Crumpets.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Line & Sinker",
+      "artist": "Billy Talent",
+      "has_synced": true,
+      "path": "select/16_Line_&_Sinker_Billy_Talent.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Line & Sinker [Live]",
+      "artist": "Billy Talent",
+      "has_synced": true,
+      "path": "select/17_Line_&_Sinker_[Live]_Billy_Talent.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Line & Sinker (Live)",
+      "artist": "Billy Talent",
+      "has_synced": true,
+      "path": "select/18_Line_&_Sinker_(Live)_Billy_Talent.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SINKER",
+      "artist": "水槽",
+      "has_synced": false,
+      "path": "select/pl_01_SINKER_水槽.txt"
+    }
+  ]
+}
